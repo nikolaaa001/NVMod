@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nvmod:dark_ingot"
+    }
+  ],
+  "result": {
+    "item": "nvmod:dark_nugget",
+    "count": 9
+  }
+}

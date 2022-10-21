@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "nvmod:item/light_nugget"
+
+  }
+}

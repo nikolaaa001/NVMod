@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nvmod:light_ingot"
+    }
+  ],
+  "result": {
+    "item": "nvmod:light_nugget",
+    "count": 9
+  }
+}

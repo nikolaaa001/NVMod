@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "nvmod:block/light_ore" }
+  }
+}

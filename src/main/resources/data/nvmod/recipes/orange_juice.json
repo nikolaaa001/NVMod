@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XA",
+    "#S"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glass_bottle"
+    },
+    "X": {
+      "item": "nvmod:orange"
+    },
+    "A": {
+      "item": "minecraft:gold_ingot"
+    },"S": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "nvmod:orange_juice"
+  }
+}

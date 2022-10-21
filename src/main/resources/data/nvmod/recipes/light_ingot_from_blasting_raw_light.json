@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "nvmod",
+  "ingredient": {
+    "item": "nvmod:raw_light"
+  },
+  "result": "nvmod:light_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

@@ -1,0 +1,35 @@
+{
+
+  "item.nvmod.dark_orb": "§7§kNE§r§o§4Dark§r§7§kNE§r§7Orb§7§kNE§r",
+  "item.nvmod.dark_ingot":"§7Dark Ingot",
+  "item.nvmod.raw_darkness":"§7Raw Darkness",
+  "item.nvmod.dark_nugget": "§7Dark Nugget",
+  "item.nvmod.death_stick": "Death Stick",
+  "item.nvmod.light_sword": "§eCLARIOPOR",
+
+  "item.nvmod.light_orb": "§kNE§r§o§eLight§r§kNE§rOrb§kNE",
+  "item.nvmod.light_ingot":"Light Ingot",
+  "item.nvmod.raw_light":"Raw Light",
+  "item.nvmod.light_nugget": "Light Nugget",
+  "item.nvmod.light_stick": "Light Stick",
+  "item.nvmod.dark_sword": "§4IHEGTRON",
+
+  "item.nvmod.smoke_bag": "Smoke Bag",
+  "item.nvmod.orange": "§6Orange",
+  "item.nvmod.orange_juice": "§6Orange§r Juice",
+  "item.nvmod.knife": "Just a Knife",
+  "item.nvmod.viking_axe": "Viking Axe",
+  "item.nvmod.red_carrot": "§4Red§r Carrot",
+  "item.nvmod.red_carrot_juice": "§4Red§r Carrot Juice",
+  "item.nvmod.bulbasaur": "Bulbasaur",
+  "item.nvmod.long_diamond_sword": "Loong §bDiamond§r Sword",
+  "item.nvmod.hunting_knife": "§8§nHunting§r Knife",
+
+
+  "itemGroup.dark_tab": "Darkness",
+  "itemGroup.light_tab": "Light",
+  "itemGroup.stuff": "Stuff",
+
+  "block.nvmod.light_ore": "Light Ore",
+  "block.nvmod.dark_ore": "Dark Ore"
+}

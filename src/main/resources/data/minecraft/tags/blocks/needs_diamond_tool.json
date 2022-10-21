@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "nvmod:light_ore",
+    "nvmod:dark_ore"
+  ]
+}
